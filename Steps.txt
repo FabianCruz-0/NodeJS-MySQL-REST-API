@@ -3,4 +3,4 @@
 3.- carpeta src -> index.js, database.js
 4.- carpeta routes.
 
-prueba de commit en git bash bc user.name
+prueba de commit en git bash bc user.name and user.email
